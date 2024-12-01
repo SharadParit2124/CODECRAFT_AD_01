@@ -20,3 +20,8 @@ The app adapts to different screen sizes.
 Frontend: HTML, CSS (isometric styling), JavaScript
 Backend (if required): Node.js or Python (for additional logic or validation)
 Deployment: Deployed via GitHub Pages for easy access.
+
+###Future Improvements
+Add support for advanced operations like square root, power, and modulus.
+Implement a memory function for storing previous calculations.
+Create a downloadable mobile app version.
