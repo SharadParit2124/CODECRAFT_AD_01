@@ -1,0 +1,22 @@
+# Features
+### Basic Arithmetic Operations:
+Addition
+Subtraction
+Multiplication
+Division
+
+### Input Validation:
+Handles invalid inputs gracefully.
+Prevents division by zero with appropriate error messages.
+
+### User Interface:
+Clean and minimalistic UI with isometric design aesthetics.
+Displays user-friendly error and success messages.
+
+### Responsiveness:
+The app adapts to different screen sizes.
+
+### Tech Stack
+Frontend: HTML, CSS (isometric styling), JavaScript
+Backend (if required): Node.js or Python (for additional logic or validation)
+Deployment: Deployed via GitHub Pages for easy access.
